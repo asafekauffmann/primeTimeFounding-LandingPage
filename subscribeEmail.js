@@ -13,7 +13,7 @@ function sendForm() {
   .then(response => response.json())
   .then(data => {
     console.log('Resposta do servidor:', data);
-    // Lógica adicional se necessário
+    // Lógica adicional se necessário POST 
   })
   .catch(error => {
     console.error('Erro ao enviar formulário:', error);
