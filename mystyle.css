@@ -49,7 +49,7 @@ input {
   align-items: center;
   justify-content: space-between;
   padding: 0px 56px;
-  padding-top: 84px;
+  padding-top: 50px;
 }
 
 .navigation {
@@ -128,8 +128,9 @@ li:hover {
   position: relative;
   height: 500px;
   max-width: 400px;
-  padding-bottom: 20px;
+  padding-bottom: 35px;
 }
+
 
 .baseBackground {
   position: relative;
